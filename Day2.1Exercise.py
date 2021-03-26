@@ -7,7 +7,7 @@ number = input("Enter two-digit number: ")
 print(int(number[0]) + int(number[1]))
 
 
-"""  Attention Please!
+"""  !
 
 print(number[0] + number[1])  
 When I write it as print (number [0] + number [1]), the code output does not change, 
