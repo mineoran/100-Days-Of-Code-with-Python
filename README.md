@@ -1,4 +1,4 @@
-# 100 Days Of Challenge 
+# 100 Days Of Code Challenge with Python
 
 100 days of code challenge with python from Angela Yu ınstructor
 
