@@ -2,7 +2,7 @@ What is a silent auction?
 
 A silent auction is an event at which items for sale are displayed for attendees to assess, place bids on, and purchase. However, unlike most auctions, there is no auctioneer present, and participants place their bids silently and anonymously on a bid sheet using a bidding number—hence the name silent auction.
 
-"""To give an example of the blind auction program"""
+###  To give an example of the blind auction program  ###
 
 Let's say I will be the first to enter the program. I will give my name and offer. Let's say I'm bidding $42 for this product.
 After I finished my bid, he asked me if there were any other bidders.
