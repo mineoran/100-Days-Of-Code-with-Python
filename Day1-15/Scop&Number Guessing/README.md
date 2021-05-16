@@ -1,5 +1,8 @@
 In this project; We will learn what local and global scop means
+
+
 Local (or function) Scope:
+
 Local scope is the code block or body of any Python function or lambda expression. This Python scope contains the names that you define inside the function. These names will only be visible from the code of the function. It’s created at function call, not at function definition, so you’ll have as many different local scopes as function calls. In short, variables defined in a function are called local variables. What we mean by local variables is that the variables are specific to the function.
 
 Global Scope:
