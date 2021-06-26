@@ -47,25 +47,3 @@ def game():
 
 game()
 
-
-
-
-
-
-
-# Check if user is correct.
-## Get follower count.
-## If Statement
-
-# Feedback.
-
-
-# Score Keeping.
-
-# Make game repeatable.
-
-# Make B become the next A.
-
-# Add art.
-
-# Clear screen between rounds.
